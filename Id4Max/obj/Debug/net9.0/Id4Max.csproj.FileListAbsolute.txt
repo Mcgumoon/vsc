@@ -1,0 +1,11 @@
+/Users/ashleydavila/dotnet/vsc2/Id4Max/bin/Debug/net9.0/Id4Max.deps.json
+/Users/ashleydavila/dotnet/vsc2/Id4Max/bin/Debug/net9.0/Id4Max.dll
+/Users/ashleydavila/dotnet/vsc2/Id4Max/bin/Debug/net9.0/Id4Max.pdb
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.AssemblyInfoInputs.cache
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.AssemblyInfo.cs
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.csproj.CoreCompileInputs.cache
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.dll
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/refint/Id4Max.dll
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/Id4Max.pdb
+/Users/ashleydavila/dotnet/vsc2/Id4Max/obj/Debug/net9.0/ref/Id4Max.dll
